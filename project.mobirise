@@ -143,7 +143,7 @@
           },
           "title": "CONTACT FORM",
           "form": {
-            "action": "",
+            "action": "SyedKhalidOmair@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -151,12 +151,12 @@
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Name"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Email"
               },
               "phone": {
                 "title": "Phone",
